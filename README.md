@@ -1,24 +1,14 @@
-# README
+ToDo Task
+====
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Overview
 
-Things you may want to cover:
+## Description
+CRUD機能のToDo管理アプリです。
+見た目はシンプルにBootstrapを使用しています。
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## Usage
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[リンク](https://todo-task-taisuke.herokuapp.com/)
